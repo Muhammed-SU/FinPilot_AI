@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="finpilot-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#0F766E" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.25" flood-color="#064E3B"/>
+    </filter>
+  </defs>
+
+  <!-- Rounded App Icon Background -->
+  <rect width="64" height="64" rx="16" fill="url(#finpilot-grad)" />
+
+  <!-- FinPilot Soaring Jet / Navigation Arrow -->
+  <g filter="url(#shadow)">
+    <!-- Right wing -->
+    <path d="M54 10L28 36L36 52L54 10Z" fill="#FFFFFF" fill-opacity="0.95" />
+    <!-- Left wing -->
+    <path d="M54 10L12 28L28 36L54 10Z" fill="#FFFFFF" fill-opacity="0.75" />
+    <!-- Center spine -->
+    <path d="M54 10L28 36" stroke="#E0E7FF" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Motion trails -->
+    <path d="M16 44L23 37" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-opacity="0.8" />
+    <path d="M11 53L18 46" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-opacity="0.5" />
+  </g>
+</svg>
