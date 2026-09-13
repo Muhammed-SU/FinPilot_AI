@@ -33,3 +33,8 @@ A modern full-stack personal finance tracker that helps users manage their incom
 - 🔐 JWT Authentication
 - 📊 MongoDB Aggregation Pipelines for analytics
 - 🌍 Deployed on [Render](https://render.com)
+
+## 📸 Screenshots
+
+### LogIn 
+<img src="images.logIn" width="100%" />
