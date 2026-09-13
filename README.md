@@ -146,7 +146,7 @@ FinPilot/
 ## 🧑‍💻 Authors
 
 **Muhammed Sheikh Hamza**  
-[GitHub](https://github.com/Muhammed-SU) | [LinkedIn](www.linkedin.com/in/muhammed-sheikh-hamza-0109112a1)
+[GitHub](https://github.com/Muhammed-SU) | [LinkedIn](www.linkedin.com/in/muhammed-sheikh-hamza-0109112a1/)
 
 **Ezzaldeen Bajoh**  
 [GitHub](https://github.com/EZZALDEEN-BAJOH) | [LinkedIn](https://www.linkedin.com/in/ezzaldeen-bajoh-982015285/)
