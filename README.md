@@ -34,6 +34,8 @@ A modern full-stack personal finance tracker that helps users manage their incom
 - 📊 MongoDB Aggregation Pipelines for analytics
 - 🌍 Deployed on [Render](https://render.com)
 
+---
+
 ## 📸 Screenshots
 
 ### 🌟LogIn 
@@ -68,5 +70,93 @@ A modern full-stack personal finance tracker that helps users manage their incom
 
 ### 🧩Categories
 <img src="images/Catigories.png" width="100%" />
+
+### 🧠AI insights
+<img src="images/AiInsights.png" width="100%" />
+
+---
+
+## 🧪 Getting StartedMore actions
+
+### Prerequisites
+
+- Node.js (v18+)
+- MongoDB (local or cloud)
+- npm or yarn
+
+### 🔧 Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone <repository-url>
+   cd FinPilot
+   ```
+
+2. **Install Frontend Dependencies**
+   ```bash
+   cd client
+   npm install
+   ```
+
+3. **Install Backend Dependencies**
+   ```bash
+   cd ../server
+   npm install
+   ```
+
+4. **Setup Environment Variables**
+
+   Create a `.env` file in `server/`:
+
+   ```
+   PORT=5000
+   MONGODB_URI=your_mongo_db_uri
+   JWT_SECRET=your_jwt_secret
+   ```
+
+5. **Run the App**
+
+   - Run backend
+     ```bash
+     cd server
+     npm run dev
+     ```
+
+   - Run frontend
+     ```bash
+     cd client
+     npm run dev
+     ```
+
+   App will be live at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📁 Folder Structure
+
+```
+FinPilot/
+├── frontend/         # React frontend
+├── backend/          # Node/Express backend
+├── README.md
+```
+
+---
+
+## 🧑‍💻 Authors
+
+**Muhammed Sheikh Hamza**  
+[GitHub](https://github.com/Muhammed-SU) | [LinkedIn](www.linkedin.com/in/muhammed-sheikh-hamza-0109112a1)
+
+**Ezzaldeen Bajoh**  
+[GitHub](https://github.com/EZZALDEEN-BAJOH) | [LinkedIn](https://www.linkedin.com/in/ezzaldeen-bajoh-982015285/)
+
+**Hasan Eleyvi**  
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 
