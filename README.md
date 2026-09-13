@@ -38,3 +38,35 @@ A modern full-stack personal finance tracker that helps users manage their incom
 
 ### 🌟LogIn 
 <img src="images/logIn.png" width="100%" />
+
+### 🌟SignUp 
+<img src="images/signUp.png" width="100%" />
+
+### 📊Dashboard 
+<img src="images/dashboard0.png" width="100%" />
+
+### ⚫Dark Mode 
+<img src="images/DarkMode.png" width="100%" />
+
+### 📊Dashboard 
+<img src="images/dashboard1.png" width="100%" />
+
+### 📊Dashboard 
+<img src="images/dashboard2.png" width="100%" />
+
+### 💵Various currencies
+<img src="images/selectCurrency.png" width="100%" />
+
+### 💸Transactions
+<img src="images/transactions.png" width="100%" />
+
+### 🗯️Budgets
+<img src="images/Budget.png" width="100%" />
+
+### 🔤Turkish language support
+<img src="images/turkce.png" width="100%" />
+
+### 🧩Categories
+<img src="images/Catigories.png" width="100%" />
+
+
