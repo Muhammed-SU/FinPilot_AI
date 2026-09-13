@@ -37,4 +37,4 @@ A modern full-stack personal finance tracker that helps users manage their incom
 ## 📸 Screenshots
 
 ### 🌟LogIn 
-<img src="images.logIn.png" width="100%" />
+<img src="images/logIn.png" width="100%" />
